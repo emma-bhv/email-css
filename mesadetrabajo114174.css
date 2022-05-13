@@ -1,0 +1,475 @@
+.mesadetrabajo114174-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:#e5e5e5;
+}
+.mesadetrabajo114174-mesadetrabajo114174 {
+  width: 750px;
+  height: 2829px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 750px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.mesadetrabajo114174-svg {
+  left: 0.0029296875px;
+  width: 750;
+  height: 2829;
+  position: absolute;
+}
+.mesadetrabajo114174-grupo24177 {
+  top: -46px;
+  left: -388px;
+  width: 1797px;
+  height: 876.2479858398438px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.mesadetrabajo114174-grupo14178 {
+  top: 0px;
+  left: 0px;
+  width: 1797px;
+  height: 876.2479858398438px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.mesadetrabajo114174-image {
+  top: 0px;
+  left: 0px;
+  width: 1797px;
+  height: 876px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.mesadetrabajo114174-svg1 {
+  top: 829px;
+  left: -0.9970703125px;
+  width: 751;
+  height: 2000;
+  position: absolute;
+}
+.mesadetrabajo114174-svg2 {
+  top: 539px;
+  left: 109.5029296875px;
+  width: 531;
+  height: 54;
+  position: absolute;
+}
+.mesadetrabajo114174-image1 {
+  top: 23px;
+  left: 212px;
+  width: 326px;
+  height: 109px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.mesadetrabajo114174-svg3 {
+  top: 771px;
+  left: 47px;
+  width: 655;
+  height: 1608;
+  position: absolute;
+}
+.mesadetrabajo114174-svg4 {
+  top: 2012px;
+  left: 169px;
+  width: 412;
+  height: 106;
+  position: absolute;
+}
+.mesadetrabajo114174-text {
+  top: 2037px;
+  left: 255px;
+  color: rgba(12, 0, 183, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Kanit;
+  font-weight: 600px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text04 {
+  top: 2154.658203125px;
+  left: 240.24609375px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Kanit;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-grupo44190 {
+  top: 1756px;
+  left: -171px;
+  width: 1091px;
+  height: 325.7380065917969px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.mesadetrabajo114174-image2 {
+  top: 0px;
+  left: 0px;
+  width: 1091px;
+  height: 326px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.mesadetrabajo114174-text05 {
+  top: 2612.6220703125px;
+  left: 110px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Kanit;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text09 {
+  top: 2711.677734375px;
+  left: 140px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Kanit;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text10 {
+  top: 2413.88671875px;
+  left: 290px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Kanit;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-image3 {
+  top: 2477px;
+  left: 181px;
+  width: 389px;
+  height: 93px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.mesadetrabajo114174-image4 {
+  top: 2503.47998046875px;
+  left: 356.02392578125px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.mesadetrabajo114174-image5 {
+  top: 2501.806640625px;
+  left: 497.734130859375px;
+  width: 55px;
+  height: 45px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.mesadetrabajo114174-svg05 {
+  top: 2499.623046875px;
+  left: 212.049072265625px;
+  width: 37;
+  height: 72;
+  position: absolute;
+}
+.mesadetrabajo114174-svg5 {
+  top: 2138.93505859375px;
+  left: 168px;
+  width: 413;
+  height: 60;
+  position: absolute;
+}
+.mesadetrabajo114174-svg6 {
+  top: 596.6708984375px;
+  left: 132px;
+  width: 487;
+  height: 54;
+  position: absolute;
+}
+.mesadetrabajo114174-svg7 {
+  top: 653.587890625px;
+  left: 110px;
+  width: 531;
+  height: 54;
+  position: absolute;
+}
+.mesadetrabajo114174-text11 {
+  top: 576px;
+  left: 149px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 55.529998779296875px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Kanit;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text12 {
+  top: 634px;
+  left: 128px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 55.529998779296875px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Kanit;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text13 {
+  top: 518.80615234375px;
+  left: 119px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 55.529998779296875px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Kanit;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-svg8 {
+  top: 2220px;
+  left: 169px;
+  width: 412;
+  height: 106;
+  position: absolute;
+}
+.mesadetrabajo114174-text14 {
+  top: 839px;
+  left: 124px;
+  color: rgba(0, 0, 0, 1);
+  width: 502px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text15 {
+  color: rgba(0, 0, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text47 {
+  color: rgba(0, 0, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 600px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text53 {
+  color: rgba(0, 0, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text57 {
+  color: rgba(168, 30, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 600px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.mesadetrabajo114174-text58 {
+  color: rgba(0, 0, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 600px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text59 {
+  color: rgba(0, 0, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text63 {
+  color: rgba(0, 0, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 600px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text64 {
+  color: rgba(0, 0, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text65 {
+  color: rgba(168, 30, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 600px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.mesadetrabajo114174-text69 {
+  color: rgba(0, 0, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 600px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text70 {
+  color: rgba(0, 0, 0, 1);
+  width: 502px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text80 {
+  top: 1829px;
+  left: 181px;
+  color: rgba(13, 0, 189, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Kanit;
+  font-weight: 500px;
+  line-height: 38px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mesadetrabajo114174-text86 {
+  top: 2231px;
+  left: 259px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Kanit;
+  font-weight: 600px;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
